@@ -1,2 +1,6 @@
-# repositorio-de-is
+# Mi primera aplicación
+
 Mi primer primer proyecto de IS
+
+## Instalación
+Descargar y listo.
